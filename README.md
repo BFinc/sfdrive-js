@@ -10,6 +10,8 @@ Utilizes a well documented client library built out by google to authenticate (O
 Google Docs
 
 https://developers.google.com/api-client-library/javascript/start/start-js
+
 https://developers.google.com/drive/v3/web/search-parameters
+
 https://developers.google.com/drive/v3/web/about-auth
 
